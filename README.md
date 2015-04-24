@@ -1,8 +1,9 @@
 ISL29125 Breakout
 =================
 
-[![ISL29125 Breakout](https://cdn.sparkfun.com//assets/parts/9/6/7/7/12829-01.jpg)   
-*RGB Light Sensor Breakout-ISL29125 (SEN-12829)*](https://www.sparkfun.com/products/12829)
+![ISL29125 Breakout](https://cdn.sparkfun.com//assets/parts/9/6/7/7/12829-01.jpg)   
+
+[*RGB Light Sensor Breakout-ISL29125 (SEN-12829)*](https://www.sparkfun.com/products/12829)
 
 A Breakout Board and supporting code for the ISL29125 RGB Light Sensor.
 
