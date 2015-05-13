@@ -11,4 +11,3 @@ Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
 
-_Any collaboration credit should appear here._
